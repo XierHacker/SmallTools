@@ -1,0 +1,7 @@
+## Requirement:
+
+numpy
+
+pandas
+
+gensim
